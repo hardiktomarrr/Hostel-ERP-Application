@@ -17,7 +17,7 @@ A modern, dual-role Flutter ERP application designed for seamless hostel and fla
 - **Payments & Dues**: View ledger, outstanding rent/dues, scan hostel UPI QR codes, and submit UTR confirmation proofs.
 - **Support Tickets**: Raise and track maintenance/facility complaints in real time.
 
-### 🏢 Manager / Admin Portal
+### Manager / Admin Portal
 - **Real-Time Overview**: Live statistics powered by Cloud Firestore listeners for instant operational updates.
 - **Resident Management**: Directory of registered residents, room allocations, and status tracking.
 - **Payment Verification**: Review, approve, or reject resident UTR payment submissions.
