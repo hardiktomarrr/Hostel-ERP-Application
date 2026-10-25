@@ -1,4 +1,4 @@
-# 🏢 Lakshya's Hostel ERP
+# Lakshya's Hostel ERP
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Firebase](https://img.shields.io/badge/Firebase-Auth%20%26%20Firestore-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com)
@@ -9,9 +9,9 @@ A modern, dual-role Flutter ERP application designed for seamless hostel and fla
 
 ---
 
-## ✨ Features
+## Features
 
-### 👤 Resident Portal
+### Resident Portal
 - **Daily Dashboard**: View live dues summaries, today's meal schedule, announcements, and next shuttle/cab timings.
 - **Mess Menu**: Full weekly meal planner categorized by Breakfast, Lunch, Snacks, and Dinner with day-by-day tabs.
 - **Payments & Dues**: View ledger, outstanding rent/dues, scan hostel UPI QR codes, and submit UTR confirmation proofs.
@@ -26,7 +26,7 @@ A modern, dual-role Flutter ERP application designed for seamless hostel and fla
 
 ---
 
-## 🔑 Demo Credentials
+## Demo Credentials
 
 The application features built-in self-seeding authentication for immediate testing:
 
@@ -39,7 +39,7 @@ The application features built-in self-seeding authentication for immediate test
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: [Flutter](https://flutter.dev) (Dart 3)
 - **Backend & Database**: [Firebase Auth](https://firebase.google.com/docs/auth) & [Cloud Firestore](https://firebase.google.com/docs/firestore)
@@ -49,7 +49,7 @@ The application features built-in self-seeding authentication for immediate test
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - [Flutter SDK](https://docs.flutter.dev/get-started/install) (`>= 3.0.0`)
@@ -82,7 +82,7 @@ flutter build web --release
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 lib/
@@ -97,6 +97,6 @@ lib/
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
