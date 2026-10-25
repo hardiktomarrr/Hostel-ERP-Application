@@ -1,0 +1,23 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "lakshya-s-erp",
+          "appId": "1:935763498289:android:d99c821bd25d929ccbcc10",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "lakshya-s-erp",
+          "configurations": {
+            "android": "1:935763498289:android:d99c821bd25d929ccbcc10",
+            "ios": "1:935763498289:ios:479dd53015afd2a8cbcc10",
+            "web": "1:935763498289:web:1c4f3f761f8a921fcbcc10"
+          }
+        }
+      }
+    }
+  }
+}
